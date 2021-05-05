@@ -5,8 +5,13 @@ I don't have a large channel to test this on, so extended runs could potentially
 
 There is also only support for Windows at the moment with the pre-compiled EXE file, but the code itself is platform agnostic.
 
+## Disclaimer
+This is essentially a bot/web-scraper, which is generally frowned upon by web services, so I assume no responsibility if YouTube takes any action against you/your account for using this.  
+
+On the other hand, I think we all equally frown upon potentially damaging and unexplained features being forced upon us without an easy way to disable them or figure out how they work, so let's call it even YouTube. :)
+
 ## Getting Started
-Head on over to the [Releases tab](https://github.com/Gunsmithy/TubeUnmix/releases) and download the latest tube_unmix-vX.X.X.zip file and extract it somewhere convenient on your PC.  
+Head on over to the [Releases tab](https://github.com/Gunsmithy/TubeUnmix/releases) and download the latest `tube_unmix-vX.X.X.zip` file and extract it somewhere convenient on your PC.  
 
 All you need to do to is simply run the included `tube_unmix.exe` and it will prompt you for the rest!  
 
