@@ -25,7 +25,7 @@ These are request headers from the request for listing videos. This can be found
 Go to your Content list in YouTube Studio, hit `Ctrl + Shift + I` to enter Chrome's developer tools, and go the to `Network` tab at the top.  
 ![Network Button Image](/../resources/images/network_button.png?raw=true "Network Button")
 
-From there you should see a text box with the placeholder word "Filter" inside. 
+From there you should see a text box with the placeholder word "Filter" inside.  
 ![Filter Blank Image](/../resources/images/filter_blank.png?raw=true "Filter Blank")
 
 Here, simply type `list_creator_videos` and only one request should show up in the list below.  
